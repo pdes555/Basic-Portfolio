@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+	text-align: center;
+}
+
+html {
+	background-color: #eaeaea;
+}
+
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	background-color: #4aaaa5;
+	color: #fff;
+	width: 250px;
+	height: 90px;
+	margin-left: 155px;
+}
+
+h2 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.about-me {
+	margin-left: 155px;
+	float: left;
+	width: 650px;
+	background-color: #fff;
+}
