@@ -46,6 +46,8 @@ p {
 	height: 90px;
 	margin-bottom: 50px;
 	border-bottom: 2.5px solid #cccccc;
+	position: relative;
+	bottom: 20px;
 }
 
 #about-header {
@@ -128,6 +130,5 @@ p {
 }
 
 #message-input {
-	width: 600px;
-	height: 200px;
+	
 }
