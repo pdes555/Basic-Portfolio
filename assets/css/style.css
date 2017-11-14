@@ -4,7 +4,7 @@
 }
 
 html {
-	background-color: #eaeaea;
+	background-image: url("../images/dust_scratches.png")
 }
 
 h1 {
@@ -21,9 +21,57 @@ h2 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
+h3 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
 .about-me {
 	margin-left: 155px;
 	float: left;
 	width: 650px;
 	background-color: #fff;
+	padding: 10px;
+}
+
+.header {
+	background-color: white;
+	height: 90px;
+	margin-bottom: 50px;
+	border-bottom: 5px solid #eee;
+}
+
+#about-header {
+	text-align: left;
+}
+
+#myimage {
+	float: left;
+}
+
+.connect {
+	margin-left: 50px;
+	float: left;
+	width: 270px;
+	background-color: #fff;
+	padding: 10px;
+}
+
+#link {
+	height: 64px;
+	width: 64px;
+}
+
+#git {
+	height: 64px;
+	width: 64px;
+}
+
+#stack {
+	height: 64px;
+	width: 64px;
+}
+
+.social-links {
+	text-align: center;
 }
